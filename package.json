@@ -1,5 +1,5 @@
 {
-  "name": "devjs-footer",
+  "name": "cnjs-footer",
   "version": "0.1.0",
   "description": "This allows for a dynamic footer to be generated",
   "main": "index.js",
